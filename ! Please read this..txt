@@ -1,0 +1,3 @@
+This about no having a video for this CA, after I imported the codes from the latest tutorials (create, edit delete buttons) to my own recently, I'm unable to access the backend using the frontend I dont know the cause of this as I can access the backend through vercel but not the front end. I've asked my classmates and online either they dont know (classmates) or are taking a long time to answer (online) I'm unable to record and I just sent over the Files with comments and without the recording im also unable to do a report for the same issue.
+
+I have to send this in as I wont be able to to this even if I had an extension, as i'll be away to for the holiday and I will have minimal access to wifi till the day we return from the holidays.
