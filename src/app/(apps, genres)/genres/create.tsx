@@ -30,7 +30,7 @@ export default function Page() {
     console.log(form); // Log the form data
 
     axios
-      .post(`https://ca-1-paintings.vercel.app/api/museums/`, form, {
+      .post(`https://ca-google-play-store-main-csysgj3ns-kenji-dasals-projects.vercel.app/api/genres`, form, {
         headers: {
           Authorization: `Bearer ${session}`, // Include the session token in the request headers
         },
