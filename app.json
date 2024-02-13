@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "ca2-festivals-example",
-    "slug": "ca2-festivals-example",
-    "scheme":"ca2-festivals-example",
+    "name": "CA2-FE-GPS",
+    "slug": "CA2-FE-GPS",
+    "scheme":"CA2-FE-GPS",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./src/assets/icon.png",
